@@ -4,7 +4,7 @@
   <title><![CDATA[Category: memo | My Octopress Blog]]></title>
   <link href="http://royskim.github.io/blog/categories/memo/atom.xml" rel="self"/>
   <link href="http://royskim.github.io/"/>
-  <updated>2014-05-18T01:09:46+09:00</updated>
+  <updated>2014-05-18T01:12:26+09:00</updated>
   <id>http://royskim.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[memo on building Octopress blog]]></title>
+    <title type="html"><![CDATA[Octopressでブログを作成する方法]]></title>
     <link href="http://royskim.github.io/blog/2014/05/18/memo-on-building-octopress-blog/"/>
     <updated>2014-05-18T01:01:51+09:00</updated>
     <id>http://royskim.github.io/blog/2014/05/18/memo-on-building-octopress-blog</id>
