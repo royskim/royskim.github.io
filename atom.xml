@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Roy Kim's External Storage]]></title>
   <link href="http://royskim.github.io/atom.xml" rel="self"/>
   <link href="http://royskim.github.io/"/>
-  <updated>2014-05-18T01:12:26+09:00</updated>
+  <updated>2014-05-18T01:16:24+09:00</updated>
   <id>http://royskim.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Roy S. Kim]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
