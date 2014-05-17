@@ -4,7 +4,7 @@
   <title><![CDATA[Category: memo | Roy Kim's External Storage]]></title>
   <link href="http://royskim.github.io/blog/categories/memo/atom.xml" rel="self"/>
   <link href="http://royskim.github.io/"/>
-  <updated>2014-05-18T01:16:24+09:00</updated>
+  <updated>2014-05-18T01:29:02+09:00</updated>
   <id>http://royskim.github.io/</id>
   <author>
     <name><![CDATA[Roy S. Kim]]></name>
@@ -36,6 +36,12 @@
 </ul>
 </li>
 <li>rakeから始まるコマンドはそのままでは実行できず、全て「bundle exec」をrakeコマンドの前につける必要があった。これを分かるまでちょっと苦労した。</li>
+<li>今使っているテーマは以下から。しかしあまり好きではない。
+
+<ul>
+<li><a href="https://github.com/alexharris/octopress-flat/">octopress-flat</a></li>
+</ul>
+</li>
 </ul>
 
 ]]></content>
